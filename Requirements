@@ -1,0 +1,20 @@
+/*
+Requirements of the system
+
+first iteration
+	GUI Title page
+		Single
+		program open -> ask name
+	single snake classic game
+		init snake, fruit
+		timer -> forward
+		eat fruit -> grow, new fruit
+		eat wall/self -> die
+		
+first Tasks
+	Simple Title frame Design
+	Simple Game frame Design
+	Snake.java Design
+	
+		
+*/
